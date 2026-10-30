@@ -1,6 +1,6 @@
 # OpenMemer
 
-**Free, open-source meme creation. No watermarks, no nonsense.**
+**Free, open-source meme creation. No watermarks, no ads, no bullshit.**
 
 OpenMemer is a collection of lightweight, open-source tools for creating, discovering, and sharing memes.
 
